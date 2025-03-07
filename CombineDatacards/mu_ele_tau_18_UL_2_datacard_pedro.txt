@@ -1,0 +1,33 @@
+Combination of Name1=../datacard_tau_tau_UL_2.txt  Name2=../datacard_mu_tau_UL_2.txt  Name3=../datacard_e_tau_UL_2.txt
+imax 4 number of bins
+jmax 1 number of processes minus 1
+kmax 10 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes *      TauTau  /eos/user/m/mpisano/tautau/CMSSW_10_2_13/src/HiggsAnalysis/CombinedLimit/Informacao_BDT_2018tautau_pedro_1_proton_corrected.root $PROCESS $PROCESS_$SYSTEMATIC
+shapes *      MuTau  /eos/user/m/mpisano/tautau/CMSSW_10_2_13/src/HiggsAnalysis/CombinedLimit/simple-shapes-mu-tau-UL-2018-TH1_2_pedro_proton_corrected.root $PROCESS $PROCESS_$SYSTEMATIC
+shapes *      ETau  /eos/user/m/mpisano/tautau/CMSSW_10_2_13/src/HiggsAnalysis/CombinedLimit/simple-shapes-e-tau-UL-2018-TH1_2_pedro_proton_corrected.root $PROCESS $PROCESS_$SYSTEMATIC
+shapes *      EMu  /eos/user/m/mpisano/tautau/CMSSW_10_2_13/src/HiggsAnalysis/CombinedLimit/simple-shapes-e-mu-UL-2018-TH1_2_pedro_proton_corrected.root $PROCESS $PROCESS_$SYSTEMATIC
+----------------------------------------------------------------------------------------------------------------------------------
+bin                      TauTau     MuTau      ETau	    EMu    
+observation              -1         -1         -1           -1
+----------------------------------------------------------------------------------------------------------------------------------
+bin                      TauTau       TauTau       MuTau        MuTau        ETau         ETau	    EMu             EMu      
+process                  excl_tautau  all_Bkg      excl_tautau  all_Bkg      excl_tautau  all_Bkg   excl_tautau     all_Bkg
+process                  0            1            0            1            0            1         0		    1
+rate                     8.89e-2      104          6.26e-2      1040         4.06e-2      760       3.20e-2         183.
+----------------------------------------------------------------------------------------------------------------------------------
+Luminosity        lnN    1.015        1.015        1.015        1.015        1.015        1.015     1.015           1.015
+tau_idVSjet       lnN    1.05         1.05         1.04         1.04         1.04         1.04       -              -
+tau_idVSe         lnN    1.027        1.025        1.025        1.025        1.03         1.03       -              -
+tau_idVSmu        lnN    1.028        1.025        1.031        1.032        1.026        1.025      -              -
+Ele_trig          lnN     -            -            -            -           1.005        1.0004     1.006          1.00038
+Mu_trig           lnN     -            -            1.005        1.0007      -            -          1.007          1.0004
+E_idiso           lnN     -            -            -            -           1.029        1.052      1.032          1.067
+Mu_idiso          lnN     -            -            1.0002        1.0004     -            -          1.0002         1.0004
+Mu_reco           lnN     -            -            1.0006        1.0005     -            -          1.0007         1.0006
+xiProton          shape   1            1            1            1           1            1          1              1
+* autoMCStats 0 1 1
+alpha             rateParam   TauTau   all_Bkg  1.0 [-1,5]
+beta              rateParam   MuTau    all_Bkg  1.0 [0,5]
+gamma             rateParam   ETau     all_Bkg  1.0 [0,5]
+delta             rateParam   EMu      all_Bkg  1.0 [0,5]

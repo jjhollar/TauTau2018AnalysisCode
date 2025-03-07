@@ -1,0 +1,2040 @@
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_10.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 93.1511
+Eventos com carga oposta tautau: 1.6805
+Eventos apos corte no momento dos taus e taus: 3.32391
+93.1511
+1.6805
+3.32391
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_100.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 202.332
+Eventos com carga oposta tautau: 4.99892
+Eventos apos corte no momento dos taus e taus: 4.99892
+202.332
+4.99892
+4.99892
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_101.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 109.236
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+109.236
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_102.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 134.622
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+134.622
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_103.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 151.934
+Eventos com carga oposta tautau: 1.51287
+Eventos apos corte no momento dos taus e taus: 1.51287
+151.934
+1.51287
+1.51287
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_104.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 131.882
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+131.882
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_105.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 164.08
+Eventos com carga oposta tautau: 1.60161
+Eventos apos corte no momento dos taus e taus: 4.73313
+164.08
+1.60161
+4.73313
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_106.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 107.633
+Eventos com carga oposta tautau: 1.58192
+Eventos apos corte no momento dos taus e taus: 1.58192
+107.633
+1.58192
+1.58192
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_107.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 184.736
+Eventos com carga oposta tautau: 3.25582
+Eventos apos corte no momento dos taus e taus: 4.91937
+184.736
+3.25582
+4.91937
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_108.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 94.5426
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+94.5426
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_109.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 201.359
+Eventos com carga oposta tautau: 4.90637
+Eventos apos corte no momento dos taus e taus: 4.90637
+201.359
+4.90637
+4.90637
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_11.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 79.8574
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+79.8574
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_110.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 108.75
+Eventos com carga oposta tautau: 4.75028
+Eventos apos corte no momento dos taus e taus: 4.75028
+108.75
+4.75028
+4.75028
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_111.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 220.248
+Eventos com carga oposta tautau: 1.50206
+Eventos apos corte no momento dos taus e taus: 3.15911
+220.248
+1.50206
+3.15911
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_112.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 168.583
+Eventos com carga oposta tautau: 3.15461
+Eventos apos corte no momento dos taus e taus: 3.15461
+168.583
+3.15461
+3.15461
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_113.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 170.913
+Eventos com carga oposta tautau: 3.24065
+Eventos apos corte no momento dos taus e taus: 6.34841
+170.913
+3.24065
+6.34841
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_114.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 118.351
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+118.351
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_115.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 200.422
+Eventos com carga oposta tautau: 4.85503
+Eventos apos corte no momento dos taus e taus: 4.85503
+200.422
+4.85503
+4.85503
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_116.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 199.283
+Eventos com carga oposta tautau: 3.33223
+Eventos apos corte no momento dos taus e taus: 4.97671
+199.283
+3.33223
+4.97671
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_117.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 191.191
+Eventos com carga oposta tautau: 3.20173
+Eventos apos corte no momento dos taus e taus: 3.20173
+191.191
+3.20173
+3.20173
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_118.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 209.219
+Eventos com carga oposta tautau: 3.12143
+Eventos apos corte no momento dos taus e taus: 3.12143
+209.219
+3.12143
+3.12143
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_119.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 223.533
+Eventos com carga oposta tautau: 1.71777
+Eventos apos corte no momento dos taus e taus: 6.74674
+223.533
+1.71777
+6.74674
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_12.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 96.3905
+Eventos com carga oposta tautau: 1.47529
+Eventos apos corte no momento dos taus e taus: 1.47529
+96.3905
+1.47529
+1.47529
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_120.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 187.329
+Eventos com carga oposta tautau: 1.61122
+Eventos apos corte no momento dos taus e taus: 1.61122
+187.329
+1.61122
+1.61122
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_121.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 126.371
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.73909
+126.371
+0
+1.73909
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_122.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 145.791
+Eventos com carga oposta tautau: 1.61609
+Eventos apos corte no momento dos taus e taus: 3.26907
+145.791
+1.61609
+3.26907
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_123.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 192.725
+Eventos com carga oposta tautau: 4.84645
+Eventos apos corte no momento dos taus e taus: 6.47605
+192.725
+4.84645
+6.47605
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_124.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 192.204
+Eventos com carga oposta tautau: 5.00918
+Eventos apos corte no momento dos taus e taus: 5.00918
+192.204
+5.00918
+5.00918
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_125.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 122.082
+Eventos com carga oposta tautau: 4.89637
+Eventos apos corte no momento dos taus e taus: 4.89637
+122.082
+4.89637
+4.89637
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_126.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 97.1847
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+97.1847
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_127.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 104.893
+Eventos com carga oposta tautau: 1.60423
+Eventos apos corte no momento dos taus e taus: 1.60423
+104.893
+1.60423
+1.60423
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_128.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 25.0309
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+25.0309
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_129.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 31.4867
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+31.4867
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_13.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 28.0697
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+28.0697
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_130.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 31.7719
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+31.7719
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_131.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 6.80257
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+6.80257
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_132.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.20607
+Eventos com carga oposta tautau: 1.61972
+Eventos apos corte no momento dos taus e taus: 1.61972
+3.20607
+1.61972
+1.61972
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_133.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 0
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+0
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_134.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 89.2728
+Eventos com carga oposta tautau: 1.62636
+Eventos apos corte no momento dos taus e taus: 3.24411
+89.2728
+1.62636
+3.24411
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_135.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 145.146
+Eventos com carga oposta tautau: 1.61565
+Eventos apos corte no momento dos taus e taus: 1.61565
+145.146
+1.61565
+1.61565
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_136.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 124.97
+Eventos com carga oposta tautau: 1.61395
+Eventos apos corte no momento dos taus e taus: 3.2279
+124.97
+1.61395
+3.2279
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_137.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 137.784
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+137.784
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_138.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 101.103
+Eventos com carga oposta tautau: 1.62965
+Eventos apos corte no momento dos taus e taus: 1.62965
+101.103
+1.62965
+1.62965
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_139.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 153.096
+Eventos com carga oposta tautau: 3.38905
+Eventos apos corte no momento dos taus e taus: 3.38905
+153.096
+3.38905
+3.38905
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_14.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 97.6552
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.94817
+97.6552
+0
+1.94817
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_140.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 92.4239
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+92.4239
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_141.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 129.99
+Eventos com carga oposta tautau: 1.62577
+Eventos apos corte no momento dos taus e taus: 1.62577
+129.99
+1.62577
+1.62577
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_142.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 147.896
+Eventos com carga oposta tautau: 1.56673
+Eventos apos corte no momento dos taus e taus: 1.56673
+147.896
+1.56673
+1.56673
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_143.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 124.978
+Eventos com carga oposta tautau: 1.61266
+Eventos apos corte no momento dos taus e taus: 1.61266
+124.978
+1.61266
+1.61266
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_144.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 105.586
+Eventos com carga oposta tautau: 1.64798
+Eventos apos corte no momento dos taus e taus: 1.64798
+105.586
+1.64798
+1.64798
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_145.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 114.902
+Eventos com carga oposta tautau: 4.8182
+Eventos apos corte no momento dos taus e taus: 4.8182
+114.902
+4.8182
+4.8182
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_146.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 200.264
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+200.264
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_147.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 121.45
+Eventos com carga oposta tautau: 1.47803
+Eventos apos corte no momento dos taus e taus: 1.47803
+121.45
+1.47803
+1.47803
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_148.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 107.481
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+107.481
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_149.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 46.1434
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+46.1434
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_15.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 129.499
+Eventos com carga oposta tautau: 1.67176
+Eventos apos corte no momento dos taus e taus: 3.27322
+129.499
+1.67176
+3.27322
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_150.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 224.867
+Eventos com carga oposta tautau: 3.27481
+Eventos apos corte no momento dos taus e taus: 3.27481
+224.867
+3.27481
+3.27481
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_151.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 166.92
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+166.92
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_152.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 119.09
+Eventos com carga oposta tautau: 1.47803
+Eventos apos corte no momento dos taus e taus: 3.15802
+119.09
+1.47803
+3.15802
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_153.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 150.2
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+150.2
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_154.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 149.048
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.74002
+149.048
+0
+1.74002
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_155.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 127.766
+Eventos com carga oposta tautau: 3.34742
+Eventos apos corte no momento dos taus e taus: 3.34742
+127.766
+3.34742
+3.34742
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_156.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 199.289
+Eventos com carga oposta tautau: 3.29007
+Eventos apos corte no momento dos taus e taus: 4.91288
+199.289
+3.29007
+4.91288
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_157.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 202.902
+Eventos com carga oposta tautau: 4.91358
+Eventos apos corte no momento dos taus e taus: 4.91358
+202.902
+4.91358
+4.91358
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_158.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 177.02
+Eventos com carga oposta tautau: 3.38682
+Eventos apos corte no momento dos taus e taus: 3.38682
+177.02
+3.38682
+3.38682
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_159.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 211.651
+Eventos com carga oposta tautau: 3.24144
+Eventos apos corte no momento dos taus e taus: 3.24144
+211.651
+3.24144
+3.24144
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_16.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 147.978
+Eventos com carga oposta tautau: 7.92119
+Eventos apos corte no momento dos taus e taus: 7.92119
+147.978
+7.92119
+7.92119
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_160.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 110.06
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.64798
+110.06
+0
+1.64798
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_161.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 191.331
+Eventos com carga oposta tautau: 1.62577
+Eventos apos corte no momento dos taus e taus: 1.62577
+191.331
+1.62577
+1.62577
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_162.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 176.158
+Eventos com carga oposta tautau: 3.25446
+Eventos apos corte no momento dos taus e taus: 3.25446
+176.158
+3.25446
+3.25446
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_163.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 144.819
+Eventos com carga oposta tautau: 3.29537
+Eventos apos corte no momento dos taus e taus: 3.29537
+144.819
+3.29537
+3.29537
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_164.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 112.235
+Eventos com carga oposta tautau: 3.33247
+Eventos apos corte no momento dos taus e taus: 3.33247
+112.235
+3.33247
+3.33247
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_165.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 110.953
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+110.953
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_166.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 31.2631
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+31.2631
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_167.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 77.5129
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+77.5129
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_168.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 120.585
+Eventos com carga oposta tautau: 1.66003
+Eventos apos corte no momento dos taus e taus: 1.66003
+120.585
+1.66003
+1.66003
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_169.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 23.5819
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+23.5819
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_17.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 138.614
+Eventos com carga oposta tautau: 1.71821
+Eventos apos corte no momento dos taus e taus: 1.71821
+138.614
+1.71821
+1.71821
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_170.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 94.714
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.63124
+94.714
+0
+1.63124
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_171.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 124.879
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+124.879
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_172.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 147.895
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+147.895
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_173.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 117.544
+Eventos com carga oposta tautau: 1.62576
+Eventos apos corte no momento dos taus e taus: 1.62576
+117.544
+1.62576
+1.62576
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_174.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 91.3721
+Eventos com carga oposta tautau: 1.63607
+Eventos apos corte no momento dos taus e taus: 1.63607
+91.3721
+1.63607
+1.63607
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_175.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 133.065
+Eventos com carga oposta tautau: 1.62785
+Eventos apos corte no momento dos taus e taus: 1.62785
+133.065
+1.62785
+1.62785
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_176.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 36.5457
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+36.5457
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_177.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 6.57616
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+6.57616
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_178.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 4.94757
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+4.94757
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_179.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.13757
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+3.13757
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_18.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 52.9919
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+52.9919
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_180.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 1.81
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+1.81
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_181.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 38.8454
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+38.8454
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_182.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 70.0651
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+70.0651
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_183.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 114.481
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+114.481
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_184.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 108.132
+Eventos com carga oposta tautau: 1.63137
+Eventos apos corte no momento dos taus e taus: 1.63137
+108.132
+1.63137
+1.63137
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_185.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 109.768
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+109.768
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_186.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 93.251
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+93.251
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_187.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 114.543
+Eventos com carga oposta tautau: 1.6329
+Eventos apos corte no momento dos taus e taus: 1.6329
+114.543
+1.6329
+1.6329
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_188.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 104.554
+Eventos com carga oposta tautau: 1.61283
+Eventos apos corte no momento dos taus e taus: 1.61283
+104.554
+1.61283
+1.61283
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_189.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 89.8071
+Eventos com carga oposta tautau: 1.47529
+Eventos apos corte no momento dos taus e taus: 1.47529
+89.8071
+1.47529
+1.47529
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_19.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 6.70497
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+6.70497
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_190.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 79.3167
+Eventos com carga oposta tautau: 1.62795
+Eventos apos corte no momento dos taus e taus: 3.36794
+79.3167
+1.62795
+3.36794
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_191.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 6.55844
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+6.55844
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_192.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 107.419
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+107.419
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_193.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 138.86
+Eventos com carga oposta tautau: 1.6418
+Eventos apos corte no momento dos taus e taus: 1.6418
+138.86
+1.6418
+1.6418
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_194.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 113.897
+Eventos com carga oposta tautau: 3.12827
+Eventos apos corte no momento dos taus e taus: 3.12827
+113.897
+3.12827
+3.12827
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_195.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 99.213
+Eventos com carga oposta tautau: 1.68269
+Eventos apos corte no momento dos taus e taus: 1.68269
+99.213
+1.68269
+1.68269
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_196.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 0
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+0
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_197.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 43.9022
+Eventos com carga oposta tautau: 1.72264
+Eventos apos corte no momento dos taus e taus: 1.72264
+43.9022
+1.72264
+1.72264
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_198.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 104.954
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+104.954
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_199.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 122.886
+Eventos com carga oposta tautau: 1.61122
+Eventos apos corte no momento dos taus e taus: 3.22897
+122.886
+1.61122
+3.22897
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_2.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 111.99
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+111.99
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_20.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 109.379
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+109.379
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_200.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 171.45
+Eventos com carga oposta tautau: 1.57947
+Eventos apos corte no momento dos taus e taus: 1.57947
+171.45
+1.57947
+1.57947
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_201.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 201.585
+Eventos com carga oposta tautau: 4.83654
+Eventos apos corte no momento dos taus e taus: 6.60427
+201.585
+4.83654
+6.60427
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_202.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 147.401
+Eventos com carga oposta tautau: 8.0233
+Eventos apos corte no momento dos taus e taus: 8.0233
+147.401
+8.0233
+8.0233
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_203.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 108.055
+Eventos com carga oposta tautau: 3.26094
+Eventos apos corte no momento dos taus e taus: 3.26094
+108.055
+3.26094
+3.26094
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_204.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 79.4974
+Eventos com carga oposta tautau: 3.26926
+Eventos apos corte no momento dos taus e taus: 3.26926
+79.4974
+3.26926
+3.26926
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_21.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 134.681
+Eventos com carga oposta tautau: 1.66354
+Eventos apos corte no momento dos taus e taus: 1.66354
+134.681
+1.66354
+1.66354
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_22.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 119.9
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+119.9
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_23.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 92.5946
+Eventos com carga oposta tautau: 3.23098
+Eventos apos corte no momento dos taus e taus: 3.23098
+92.5946
+3.23098
+3.23098
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_24.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 110.379
+Eventos com carga oposta tautau: 4.92144
+Eventos apos corte no momento dos taus e taus: 4.92144
+110.379
+4.92144
+4.92144
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_25.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 97.0422
+Eventos com carga oposta tautau: 3.28923
+Eventos apos corte no momento dos taus e taus: 3.28923
+97.0422
+3.28923
+3.28923
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_26.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.23957
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+3.23957
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_27.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 176.066
+Eventos com carga oposta tautau: 3.26311
+Eventos apos corte no momento dos taus e taus: 3.26311
+176.066
+3.26311
+3.26311
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_28.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 178.421
+Eventos com carga oposta tautau: 3.10224
+Eventos apos corte no momento dos taus e taus: 3.10224
+178.421
+3.10224
+3.10224
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_29.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 136.939
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+136.939
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_3.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 86.8899
+Eventos com carga oposta tautau: 1.60726
+Eventos apos corte no momento dos taus e taus: 1.60726
+86.8899
+1.60726
+1.60726
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_30.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 142
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.73909
+142
+0
+1.73909
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_31.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 96.7697
+Eventos com carga oposta tautau: 3.23106
+Eventos apos corte no momento dos taus e taus: 3.23106
+96.7697
+3.23106
+3.23106
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_32.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 198.208
+Eventos com carga oposta tautau: 3.09485
+Eventos apos corte no momento dos taus e taus: 3.09485
+198.208
+3.09485
+3.09485
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_33.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 108.861
+Eventos com carga oposta tautau: 1.73826
+Eventos apos corte no momento dos taus e taus: 1.73826
+108.861
+1.73826
+1.73826
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_34.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 97.6068
+Eventos com carga oposta tautau: 1.59837
+Eventos apos corte no momento dos taus e taus: 1.59837
+97.6068
+1.59837
+1.59837
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_35.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 102.042
+Eventos com carga oposta tautau: 3.31211
+Eventos apos corte no momento dos taus e taus: 3.31211
+102.042
+3.31211
+3.31211
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_36.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 31.7346
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+31.7346
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_37.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 107.211
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+107.211
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_38.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 148.356
+Eventos com carga oposta tautau: 4.89961
+Eventos apos corte no momento dos taus e taus: 4.89961
+148.356
+4.89961
+4.89961
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_39.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 134.959
+Eventos com carga oposta tautau: 1.6329
+Eventos apos corte no momento dos taus e taus: 3.25019
+134.959
+1.6329
+3.25019
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_4.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 9.68888
+Eventos com carga oposta tautau: 1.57947
+Eventos apos corte no momento dos taus e taus: 1.57947
+9.68888
+1.57947
+1.57947
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_40.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 213.3
+Eventos com carga oposta tautau: 3.23875
+Eventos apos corte no momento dos taus e taus: 3.23875
+213.3
+3.23875
+3.23875
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_41.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 93.1014
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+93.1014
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_42.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 172.234
+Eventos com carga oposta tautau: 11.4035
+Eventos apos corte no momento dos taus e taus: 11.4035
+172.234
+11.4035
+11.4035
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_43.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 113.224
+Eventos com carga oposta tautau: 3.22732
+Eventos apos corte no momento dos taus e taus: 3.22732
+113.224
+3.22732
+3.22732
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_44.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 150.622
+Eventos com carga oposta tautau: 1.61799
+Eventos apos corte no momento dos taus e taus: 1.61799
+150.622
+1.61799
+1.61799
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_45.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 121.95
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+121.95
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_46.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 187.489
+Eventos com carga oposta tautau: 3.28982
+Eventos apos corte no momento dos taus e taus: 3.28982
+187.489
+3.28982
+3.28982
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_47.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 169.379
+Eventos com carga oposta tautau: 1.61954
+Eventos apos corte no momento dos taus e taus: 1.61954
+169.379
+1.61954
+1.61954
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_48.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 217.112
+Eventos com carga oposta tautau: 4.69833
+Eventos apos corte no momento dos taus e taus: 4.69833
+217.112
+4.69833
+4.69833
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_49.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 112.268
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+112.268
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_5.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.31782
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+3.31782
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_50.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 218.462
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+218.462
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_51.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 109.687
+Eventos com carga oposta tautau: 3.22106
+Eventos apos corte no momento dos taus e taus: 3.22106
+109.687
+3.22106
+3.22106
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_52.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 121.344
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+121.344
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_53.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 139.381
+Eventos com carga oposta tautau: 6.40191
+Eventos apos corte no momento dos taus e taus: 6.40191
+139.381
+6.40191
+6.40191
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_54.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 240.383
+Eventos com carga oposta tautau: 1.57683
+Eventos apos corte no momento dos taus e taus: 3.40268
+240.383
+1.57683
+3.40268
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_55.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 1.50022
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+1.50022
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_56.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 93.0594
+Eventos com carga oposta tautau: 1.59666
+Eventos apos corte no momento dos taus e taus: 1.59666
+93.0594
+1.59666
+1.59666
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_57.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 104.881
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+104.881
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_58.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 119.939
+Eventos com carga oposta tautau: 1.73766
+Eventos apos corte no momento dos taus e taus: 1.73766
+119.939
+1.73766
+1.73766
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_59.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 115.134
+Eventos com carga oposta tautau: 3.24969
+Eventos apos corte no momento dos taus e taus: 3.24969
+115.134
+3.24969
+3.24969
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_6.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 36.9999
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+36.9999
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_60.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 92.5279
+Eventos com carga oposta tautau: 1.68581
+Eventos apos corte no momento dos taus e taus: 1.68581
+92.5279
+1.68581
+1.68581
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_61.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 112.964
+Eventos com carga oposta tautau: 1.57947
+Eventos apos corte no momento dos taus e taus: 1.57947
+112.964
+1.57947
+1.57947
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_62.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 125.711
+Eventos com carga oposta tautau: 1.62965
+Eventos apos corte no momento dos taus e taus: 1.62965
+125.711
+1.62965
+1.62965
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_63.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 122.966
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+122.966
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_64.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 120.852
+Eventos com carga oposta tautau: 1.44971
+Eventos apos corte no momento dos taus e taus: 1.44971
+120.852
+1.44971
+1.44971
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_65.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 100.563
+Eventos com carga oposta tautau: 3.37896
+Eventos apos corte no momento dos taus e taus: 3.37896
+100.563
+3.37896
+3.37896
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_66.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 98.1107
+Eventos com carga oposta tautau: 1.65183
+Eventos apos corte no momento dos taus e taus: 1.65183
+98.1107
+1.65183
+1.65183
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_67.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 139.853
+Eventos com carga oposta tautau: 3.10895
+Eventos apos corte no momento dos taus e taus: 3.10895
+139.853
+3.10895
+3.10895
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_68.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 102.453
+Eventos com carga oposta tautau: 1.62795
+Eventos apos corte no momento dos taus e taus: 1.62795
+102.453
+1.62795
+1.62795
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_69.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 118.258
+Eventos com carga oposta tautau: 1.61775
+Eventos apos corte no momento dos taus e taus: 1.61775
+118.258
+1.61775
+1.61775
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_7.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 84.2022
+Eventos com carga oposta tautau: 1.66715
+Eventos apos corte no momento dos taus e taus: 1.66715
+84.2022
+1.66715
+1.66715
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_70.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 146.515
+Eventos com carga oposta tautau: 3.30811
+Eventos apos corte no momento dos taus e taus: 3.30811
+146.515
+3.30811
+3.30811
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_71.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 111.673
+Eventos com carga oposta tautau: 1.57272
+Eventos apos corte no momento dos taus e taus: 1.57272
+111.673
+1.57272
+1.57272
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_72.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 138.191
+Eventos com carga oposta tautau: 3.24936
+Eventos apos corte no momento dos taus e taus: 3.24936
+138.191
+3.24936
+3.24936
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_73.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 183.15
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+183.15
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_74.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 53.581
+Eventos com carga oposta tautau: 1.6805
+Eventos apos corte no momento dos taus e taus: 1.6805
+53.581
+1.6805
+1.6805
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_75.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 132.662
+Eventos com carga oposta tautau: 1.57272
+Eventos apos corte no momento dos taus e taus: 1.57272
+132.662
+1.57272
+1.57272
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_76.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 13.9855
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+13.9855
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_77.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 6.62696
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+6.62696
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_78.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 163.569
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.6362
+163.569
+0
+1.6362
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_79.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 141.865
+Eventos com carga oposta tautau: 1.62577
+Eventos apos corte no momento dos taus e taus: 1.62577
+141.865
+1.62577
+1.62577
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_8.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 13.337
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+13.337
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_80.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 101.102
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 1.73224
+101.102
+0
+1.73224
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_81.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 53.6109
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+53.6109
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_82.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.37558
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+3.37558
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_83.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 105.361
+Eventos com carga oposta tautau: 3.14951
+Eventos apos corte no momento dos taus e taus: 3.14951
+105.361
+3.14951
+3.14951
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_84.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 91.0667
+Eventos com carga oposta tautau: 1.71604
+Eventos apos corte no momento dos taus e taus: 1.71604
+91.0667
+1.71604
+1.71604
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_85.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 110.486
+Eventos com carga oposta tautau: 1.6567
+Eventos apos corte no momento dos taus e taus: 1.6567
+110.486
+1.6567
+1.6567
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_86.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 71.7222
+Eventos com carga oposta tautau: 3.34459
+Eventos apos corte no momento dos taus e taus: 3.34459
+71.7222
+3.34459
+3.34459
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_87.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 126.938
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+126.938
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_88.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 112.179
+Eventos com carga oposta tautau: 3.25593
+Eventos apos corte no momento dos taus e taus: 3.25593
+112.179
+3.25593
+3.25593
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_89.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 176.868
+Eventos com carga oposta tautau: 3.2966
+Eventos apos corte no momento dos taus e taus: 6.55237
+176.868
+3.2966
+6.55237
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_9.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 3.1716
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+3.1716
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_90.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 141.649
+Eventos com carga oposta tautau: 4.90369
+Eventos apos corte no momento dos taus e taus: 6.51318
+141.649
+4.90369
+6.51318
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_91.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 148.279
+Eventos com carga oposta tautau: 4.62275
+Eventos apos corte no momento dos taus e taus: 4.62275
+148.279
+4.62275
+4.62275
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_92.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 173.807
+Eventos com carga oposta tautau: 1.62795
+Eventos apos corte no momento dos taus e taus: 3.22632
+173.807
+1.62795
+3.22632
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_93.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 198.244
+Eventos com carga oposta tautau: 1.62965
+Eventos apos corte no momento dos taus e taus: 1.62965
+198.244
+1.62965
+1.62965
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_94.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 201.966
+Eventos com carga oposta tautau: 0
+Eventos apos corte no momento dos taus e taus: 0
+201.966
+0
+0
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_95.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 220.614
+Eventos com carga oposta tautau: 3.24616
+Eventos apos corte no momento dos taus e taus: 4.89914
+220.614
+3.24616
+4.89914
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_96.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 143.14
+Eventos com carga oposta tautau: 6.38577
+Eventos apos corte no momento dos taus e taus: 9.68203
+143.14
+6.38577
+9.68203
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_97.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 115.21
+Eventos com carga oposta tautau: 1.49491
+Eventos apos corte no momento dos taus e taus: 1.49491
+115.21
+1.49491
+1.49491
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_98.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 133.356
+Eventos com carga oposta tautau: 4.89468
+Eventos apos corte no momento dos taus e taus: 4.89468
+133.356
+4.89468
+4.89468
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_99.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 154.173
+Eventos com carga oposta tautau: 4.65767
+Eventos apos corte no momento dos taus e taus: 6.26678
+154.173
+4.65767
+6.26678
+-11111111111111
+Input file: /eos/user/m/mpisano/samples_2018_emu/DY_2018_UL_skimmed_EMu_nano_99.root
+joaonunes
+joaotavares
+Eventos com Taus e Taus: 154.173
+Eventos com carga oposta tautau: 4.65767
+Eventos apos corte no momento dos taus e taus: 6.26678
+154.173
+4.65767
+6.26678
+-11111111111111
