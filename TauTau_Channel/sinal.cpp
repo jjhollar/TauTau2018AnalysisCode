@@ -493,7 +493,7 @@ int jet_b_n=0;
  
  double k =0.0;
 
-TFile proton_sist_1("reco_charactersitics_version1.root");
+TFile proton_sist_1("../POGCorrections/reco_charactersitics_version1.root");
 TGraphErrors* xi_sist_1 = (TGraphErrors*)proton_sist_1.Get("2018_TS1_TS2/multi rp-0/xi/g_systematics_vs_xi");
 TF1 xi_sist_inter_1("xi_sist_inter_1","pol20" ,0,10);
 xi_sist_inter_1.SetParLimits(0,-.8,0.1);
@@ -513,13 +513,13 @@ xi_sist_2->Fit("xi_sist_inter_2");
 
 TFile file_multi("/eos/project-c/ctpps/subsystems/Pixel/RPixTracking/pixelEfficiencies_multiRP_reMiniAOD.root");
 TFile file_rad("/eos/project-c/ctpps/subsystems/Pixel/RPixTracking/pixelEfficiencies_radiation_reMiniAOD.root");
-TFile id_sf("TauID_SF_pt_DeepTau2017v2p1VSjet_UL2018.root");
+TFile id_sf("../POGCorrections/TauID_SF_pt_DeepTau2017v2p1VSjet_UL2018.root");
 
 TF1 *f_id_sf = (TF1*) id_sf.Get("VTight_cent");
 TF1 *f_id_sf_up = (TF1*) id_sf.Get("VTight_up");
 TF1 *f_id_sf_down = (TF1*) id_sf.Get("VTight_down");
 
-TFile trigger_tau_sf("2018UL_tauTriggerEff_DeepTau2017v2p1.root");
+TFile trigger_tau_sf("../POGCorrections/2018UL_tauTriggerEff_DeepTau2017v2p1.root");
 TH1F *trig_tau_sf = (TH1F*) trigger_tau_sf.Get("sf_ditau_VTight_dmall_fitted");
 
 
@@ -652,7 +652,7 @@ for (int i = 0; i < ntp1 -> GetEntries(); i++){
 
 
 
-	 TFile trigger_tau_sf("2018UL_tauTriggerEff_DeepTau2017v2p1.root");
+	 TFile trigger_tau_sf("../POGCorrections/2018UL_tauTriggerEff_DeepTau2017v2p1.root");
 	 TH1F *trig_tau_sf = (TH1F*) trigger_tau_sf.Get("sf_ditau_VTight_dmall_fitted");
 
 	 double tau_id_sf=f_id_sf->Eval((*tau_pt)[0])*f_id_sf->Eval((*tau_pt)[1])*trig_tau_sf->GetBinContent(trig_tau_sf->FindBin((*tau_pt)[0]))*trig_tau_sf->GetBinContent(trig_tau_sf->FindBin((*tau_pt)[1]));
@@ -670,7 +670,7 @@ for (int i = 0; i < ntp1 -> GetEntries(); i++){
 
 	 n_id= n_id + 1*weight_sample*tau_id_sf;
 
-	 TFile tauenergy("TauES_dm_DeepTau2017v2p1VSjet_2018ReReco.root");
+	 TFile tauenergy("../POGCorrections/TauES_dm_DeepTau2017v2p1VSjet_2018ReReco.root");
 
 	 TH1F *histtauenergy = (TH1F*) tauenergy.Get("tes");
 
